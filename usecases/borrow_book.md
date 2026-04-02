@@ -38,7 +38,7 @@
 
 ### 4.1 Borrower is not eligible to borrow
 
-* Step 7.1 fails (Borrower is not eligible)
+* Step 7 fails (Borrower is not eligible)
 * The Library System returns a rejection with the reason.
 * The Librarian informs the Borrower that the borrowing request cannot proceed.
 * The use case ends without creating a loan.
@@ -55,7 +55,6 @@
 * If not, the use case ends.
 
 ---
-
 
 ## 5. Postconditions
 
